@@ -22,7 +22,7 @@ This project aims to classify human emotions from facial images using **Histogra
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/<your-username>/Emotion-Recognition.git
+   git clone https://github.com/MohaYass92/Emotion-Recognition.git
    cd Emotion-Recognition
    ```
 2. Install dependencies:  
