@@ -3,7 +3,7 @@
 ## 📌 Project Overview  
 This project aims to classify human emotions from facial images using **Histogram of Oriented Gradients (HOG)** for feature extraction and **Support Vector Machine (SVM)** for classification. The dataset consists of grayscale facial images categorized into **seven emotion classes**:
 
-😃 **Happy** | 😠 **Angry** | 😢 **Sad** | 😲 **Surprise** | 😐 **Neutral** | 😨 **Fear** | 🫂 **Disgust**  
+😃 **Happy** | 😠 **Angry** | 😢 **Sad** | 😲 **Surprise** | 😐 **Neutral** | 😨 **Fear** | 🤢 **Disgust**  
 
 ## 🔍 Features  
 - **Preprocessing**: Converts images to grayscale and normalizes them.  
