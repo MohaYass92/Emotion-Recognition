@@ -4,7 +4,7 @@ def load_data():
     # Define paths to train and test directories
     train_dir = 'data/train'
     test_dir = 'data/test'
-
+ 
     # Create the ImageDataGenerator instance for training and testing
     train_datagen = ImageDataGenerator(rescale=1./255)  # Normalize images
     test_datagen = ImageDataGenerator(rescale=1./255)
