@@ -7,7 +7,7 @@ def load_data():
  
     # Create the ImageDataGenerator instance for training and testing
     train_datagen = ImageDataGenerator(rescale=1./255)  # Normalize images
-    test_datagen = ImageDataGenerator(rescale=1./255)
+    test_datagen = ImageDataGenerator(rescale=1./255) 
 
     # Create generators to load the images
     train_generator = train_datagen.flow_from_directory(
